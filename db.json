@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Finish project proposal",
+      "description": "Write up the project proposal and send it to the client",
+      "deadline": "2023-04-15",
+      "priority": "high",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Buy groceries",
+      "description": "Pick up milk, eggs, and bread from the store",
+      "deadline": "2023-04-10",
+      "priority": "medium",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Schedule meeting with team",
+      "description": "Organize a meeting to discuss project milestones",
+      "deadline": "2023-04-20",
+      "priority": "high",
+      "completed": false
+    }
+  ]
+}
